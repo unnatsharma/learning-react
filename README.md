@@ -1,2 +1,2 @@
 # learning-react
-here i will place my learning react codes
+here i will place my react small examples
